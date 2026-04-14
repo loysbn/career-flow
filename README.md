@@ -54,35 +54,47 @@ careerflow/
 
 ### Clone the repo
 
+```
 git clone https://github.com/your-username/career-flow.git
 cd careerflow
+```
 
 ### Install dependencies
 
+```
 cd client && npm install
 cd ../server && npm install
+```
 
 ### Setup environment variables
 
 Create .env in /server:
 
+```
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
+```
 
 ---
 
 ## ▶️ Run the App
 
 **Backend**
+
+```
 cd server
 npm run dev
+```
 
 **Frontend**
+
+```
 cd client
 npm run dev
+```
 
 ---
 
 ### 👨‍💻 Author
 
-Loise Narvasa
+Loise Brendan Narvasa
