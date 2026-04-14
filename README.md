@@ -42,9 +42,11 @@ CareerFlow is a full-stack web application built to help job seekers efficiently
 
 ## 📂 Folder Structure
 
+```
 careerflow/
-├── client/ # React frontend
-├── server/ # Express backend
+├── client/    # React frontend
+├── server/    # Express backend
+```
 
 ---
 
