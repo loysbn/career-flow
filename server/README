@@ -1,0 +1,39 @@
+### test datas
+
+<!--
+{
+  "company": "Google",
+  "position": "Frontend Developer",
+  "status": "Applied",
+  "dateApplied": "2026-04-09",
+  "location": "San Francisco",
+  "notes": "Applied through careers page"
+}
+
+{
+  "company": "Microsoft",
+  "position": "Software Engineer",
+  "status": "Interview",
+  "dateApplied": "2026-04-05",
+  "location": "Washington",
+  "notes": "HR interview scheduled next week"
+}
+
+{
+  "company": "Amazon",
+  "position": "Backend Developer",
+  "status": "Rejected",
+  "dateApplied": "2026-03-28",
+  "location": "Washington",
+  "notes": "Did not pass technical exam"
+}
+
+{
+  "company": "Startup XYZ",
+  "position": "Full Stack Developer",
+  "status": "Offer",
+  "dateApplied": "2026-04-01",
+  "location": "New York",
+  "notes": "Received offer, reviewing contract"
+}
+-->
