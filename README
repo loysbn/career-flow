@@ -1,78 +1,86 @@
-🚀 CareerFlow – Job Application Tracker
+# 🚀 CareerFlow
+
+### Job Application Tracker
 
 CareerFlow is a full-stack web application built to help job seekers efficiently track and manage their job applications in one place. This project was created as a practical way to improve my skills in the MERN stack while solving a real-world problem during my job search.
 
-📌 Features
-📋 Add job applications with details like:
-Company name
-Position
-Status (Applied, Interview, Rejected, Offer)
-Date applied
-Location and notes
-✏️ Edit existing job entries
-❌ Delete job applications
-🔄 Real-time UI updates without page refresh
-🎯 Status-based color indicators for better visualization
+---
 
-🛠️ Tech Stack
+## 📸 Preview
 
-Frontend:
-React (with TypeScript)
-TailwindCSS / DaisyUI (for UI styling)
+## ![Dashboard](./screenshot/dashboard.jpg)
 
-Backend:
-Node.js
-Express.js
+---
 
-Database:
-MongoDB (with Mongoose)
+## 📸 Features
 
-📂 Project Structure
+- 📋 Add job applications (company, position, status, date, notes, location)
+- ✏️ Edit job entries
+- ❌ Delete applications
+- 🔄 Instant UI updates (no page refresh)
+- 🎯 Status-based color indicators
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+- React + TypeScript
+- ChakraUI
+
+**Backend**
+
+- Node.js
+- Express.js
+
+**Database**
+
+- MongoDB (Mongoose)
+
+---
+
+## 📂 Folder Structure
+
 careerflow/
-├── client/ # Frontend (React)
-├── server/ # Backend (Express + MongoDB)
-├── README.md
+├── client/ # React frontend
+├── server/ # Express backend
 
-⚙️ Installation & Setup
+---
 
-1. Clone the repository
-   git clone https://github.com/your-username/career-flow.git
-   cd career-flow
+## ⚙️ Installation
 
-2. Install dependencies
-   Client
-   cd client
-   npm install
+### Clone the repo
 
-Server
-cd server
-npm install
+git clone https://github.com/your-username/career-flow.git
+cd careerflow
 
-3. Setup environment variables
-   Create a .env file in the server folder:
+### Install dependencies
+
+cd client && npm install
+cd ../server && npm install
+
+### Setup environment variables
+
+Create .env in /server:
 
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
 
-4. Run the application
+---
 
-Start backend
+## ▶️ Run the App
 
+**Backend**
 cd server
 npm run dev
 
-Start frontend
-
+**Frontend**
 cd client
 npm run dev
 
-🎯 Purpose
-This project was built to:
+---
 
-Practice full-stack development using the MERN stack
-Strengthen understanding of CRUD operations
-Improve UI/UX design skills
-Create a useful tool for managing job applications
+### 👨‍💻 Author
 
-👨‍💻 Author
 Loise Narvasa
