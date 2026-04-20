@@ -8,7 +8,7 @@ CareerFlow is a full-stack web application built to help job seekers efficiently
 
 ## 📸 Preview
 
-![Dashboard](./screenshot/dashboard.jpg)
+![Dashboard](./client/src/assets/dashboard.jpg)
 
 ---
 
